@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\task4\task4\bin\Debug\netcoreapp3.1\task4.exe
+C:\Users\ilkin\source\repos\task4\task4\bin\Debug\netcoreapp3.1\task4.deps.json
+C:\Users\ilkin\source\repos\task4\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.json
+C:\Users\ilkin\source\repos\task4\task4\bin\Debug\netcoreapp3.1\task4.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\task4\task4\bin\Debug\netcoreapp3.1\task4.dll
+C:\Users\ilkin\source\repos\task4\task4\bin\Debug\netcoreapp3.1\task4.pdb
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.dll
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.pdb
+C:\Users\ilkin\source\repos\task4\task4\obj\Debug\netcoreapp3.1\task4.genruntimeconfig.cache
